@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exitButtonText">Выход</string>
+    <string name="numberA">Число A</string>
+    <string name="numberB">Число B</string>
+    <string name="e_g_5">e.g 5</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="graph">График</string>
+</resources>
